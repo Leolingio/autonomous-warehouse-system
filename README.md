@@ -21,6 +21,6 @@ This project simulates an autonomous multi-robot fleet operating in a dynamic wa
 
 * **🤖 Multi-Robot Fleet Coordination**
 * **🧠 Centralized Task Allocation**  
-* **🗺️ A* Path Planning & Graph Navigation** 
+* **🗺️ A\* Path Planning & Graph Navigation** 
 * **🛡️ Dynamic Collision Avoidance**
 * **📊 Monitoring & Control Dashboard**
